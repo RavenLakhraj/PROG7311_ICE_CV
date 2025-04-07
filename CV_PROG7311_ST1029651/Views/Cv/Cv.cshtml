@@ -1,0 +1,41 @@
+﻿@model CV_PROG7311_ST1029651.Models.CvModel
+
+<div><p class="h1 text-center mt-5"><strong>Curriculum Vitae</strong></p></div>
+
+@Html.Partial("_CvHeader", Model)
+
+<div class="custom-container">
+    <h2 style="color: #05472A"><strong>Professional Summary</strong></h2>
+    <p>@Model.Summary</p>
+
+    <h2 class="mt-3" style="color: #05472A"><strong>Education History</strong></h2>
+    @foreach (var e in Model.EducationList.Where(x => x.EducationLevel == "Secondary"))
+    {
+        <div>
+            <strong>@e.Name</strong>
+            <p class="mb-0">@e.Achievement</p>
+            <p>@e.Duration</p>
+        </div>
+    }
+
+    <h2 class="mt-3" style="color: #05472A"><strong>Current Education</strong></h2>
+    @foreach (var e in Model.EducationList.Where(x => x.EducationLevel == "Tertiary"))
+    {
+        <div>
+            <strong>@e.Name</strong>
+            <p class="mb-0">@e.Achievement</p>
+            <p>@e.Duration</p>
+        </div>
+    }
+
+    <h2 class="mt-3" style="color: #05472A"><strong>Technical Skills</strong></h2>
+    <ul>
+        @foreach (var ts in Model.TechnicalSkills)
+        {
+            <li>@ts</li>
+        }
+    </ul>
+
+
+
+</div>

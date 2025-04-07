@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rithe\\source\\repos\\CV_PROG7311_ST1029651\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F531E05-AE13-49A1-ACC4-3802B042792D}|CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651.csproj|c:\\users\\rithe\\source\\repos\\cv_prog7311_st1029651\\cv_prog7311_st1029651\\controllers\\cvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F531E05-AE13-49A1-ACC4-3802B042792D}|CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651.csproj|solutionrelative:cv_prog7311_st1029651\\controllers\\cvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F531E05-AE13-49A1-ACC4-3802B042792D}|CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651.csproj|c:\\users\\rithe\\source\\repos\\cv_prog7311_st1029651\\cv_prog7311_st1029651\\views\\cv\\cv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F531E05-AE13-49A1-ACC4-3802B042792D}|CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651.csproj|solutionrelative:cv_prog7311_st1029651\\views\\cv\\cv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F531E05-AE13-49A1-ACC4-3802B042792D}|CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651.csproj|c:\\users\\rithe\\source\\repos\\cv_prog7311_st1029651\\cv_prog7311_st1029651\\views\\shared\\_cvheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F531E05-AE13-49A1-ACC4-3802B042792D}|CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651.csproj|solutionrelative:cv_prog7311_st1029651\\views\\shared\\_cvheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F531E05-AE13-49A1-ACC4-3802B042792D}|CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651.csproj|c:\\users\\rithe\\source\\repos\\cv_prog7311_st1029651\\cv_prog7311_st1029651\\models\\cvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F531E05-AE13-49A1-ACC4-3802B042792D}|CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651.csproj|solutionrelative:cv_prog7311_st1029651\\models\\cvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_CvHeader.cshtml",
+              "DocumentMoniker": "C:\\Users\\rithe\\source\\repos\\CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651\\Views\\Shared\\_CvHeader.cshtml",
+              "RelativeDocumentMoniker": "CV_PROG7311_ST1029651\\Views\\Shared\\_CvHeader.cshtml",
+              "ToolTip": "C:\\Users\\rithe\\source\\repos\\CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651\\Views\\Shared\\_CvHeader.cshtml",
+              "RelativeToolTip": "CV_PROG7311_ST1029651\\Views\\Shared\\_CvHeader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T11:23:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cv.cshtml",
+              "DocumentMoniker": "C:\\Users\\rithe\\source\\repos\\CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651\\Views\\Cv\\Cv.cshtml",
+              "RelativeDocumentMoniker": "CV_PROG7311_ST1029651\\Views\\Cv\\Cv.cshtml",
+              "ToolTip": "C:\\Users\\rithe\\source\\repos\\CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651\\Views\\Cv\\Cv.cshtml",
+              "RelativeToolTip": "CV_PROG7311_ST1029651\\Views\\Cv\\Cv.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T10:48:18.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CvController.cs",
+              "DocumentMoniker": "C:\\Users\\rithe\\source\\repos\\CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651\\Controllers\\CvController.cs",
+              "RelativeDocumentMoniker": "CV_PROG7311_ST1029651\\Controllers\\CvController.cs",
+              "ToolTip": "C:\\Users\\rithe\\source\\repos\\CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651\\Controllers\\CvController.cs",
+              "RelativeToolTip": "CV_PROG7311_ST1029651\\Controllers\\CvController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:47:41.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CvModel.cs",
+              "DocumentMoniker": "C:\\Users\\rithe\\source\\repos\\CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651\\Models\\CvModel.cs",
+              "RelativeDocumentMoniker": "CV_PROG7311_ST1029651\\Models\\CvModel.cs",
+              "ToolTip": "C:\\Users\\rithe\\source\\repos\\CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651\\Models\\CvModel.cs",
+              "RelativeToolTip": "CV_PROG7311_ST1029651\\Models\\CvModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:39:06.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

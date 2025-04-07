@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CV_PROG7311_ST1029651/1.0.0": {
+        "runtime": {
+          "CV_PROG7311_ST1029651.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CV_PROG7311_ST1029651/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

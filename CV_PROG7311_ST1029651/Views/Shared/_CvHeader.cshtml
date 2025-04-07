@@ -1,0 +1,24 @@
+﻿@model CV_PROG7311_ST1029651.Models.CvModel
+
+<div class="custom-container">
+    <div class="d-flex justify-content-between align-items-center p-3 mb-2 shadow-sm" style="border-top: 3px solid #000; border-bottom: 3px solid #000;">
+        <div>
+            <h2 class="mb-2"><strong>@Model.FirstNames @Model.LastName</strong></h2>
+            <p class="mb-1">
+                <i class="bi bi-envelope" style="color:#05472A"></i> @Model.Email
+            </p>
+            <p class="mb-1">
+                <i class="bi bi-telephone" style="color:#05472A"></i> @Model.PhoneNumber
+            </p>
+            <p class="mb-1">
+                <i class="bi bi-geo-alt" style="color:#05472A"></i> @Model.Location
+            </p>
+            <p class="mb-1">
+                <i class="bi bi-linkedin" style="color:#05472A"></i> @Model.LinkedIn
+            </p>
+        </div>
+
+        <img src="~/images/profile.jpg" alt="Profile Picture" style="width: 150px; height: 150px; object-fit: cover;" />
+
+    </div>
+</div>
