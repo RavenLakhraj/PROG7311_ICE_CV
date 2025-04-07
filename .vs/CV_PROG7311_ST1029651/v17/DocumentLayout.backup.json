@@ -42,8 +42,7 @@
               "RelativeToolTip": "CV_PROG7311_ST1029651\\Views\\Shared\\_CvHeader.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T11:23:52.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T11:23:52.437Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "CV_PROG7311_ST1029651\\Views\\Cv\\Cv.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T10:48:18.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T10:48:18.244Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,8 @@
               "Title": "CvController.cs",
               "DocumentMoniker": "C:\\Users\\rithe\\source\\repos\\CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651\\Controllers\\CvController.cs",
               "RelativeDocumentMoniker": "CV_PROG7311_ST1029651\\Controllers\\CvController.cs",
-              "ToolTip": "C:\\Users\\rithe\\source\\repos\\CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651\\Controllers\\CvController.cs*",
-              "RelativeToolTip": "CV_PROG7311_ST1029651\\Controllers\\CvController.cs*",
+              "ToolTip": "C:\\Users\\rithe\\source\\repos\\CV_PROG7311_ST1029651\\CV_PROG7311_ST1029651\\Controllers\\CvController.cs",
+              "RelativeToolTip": "CV_PROG7311_ST1029651\\Controllers\\CvController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T10:47:41.735Z",

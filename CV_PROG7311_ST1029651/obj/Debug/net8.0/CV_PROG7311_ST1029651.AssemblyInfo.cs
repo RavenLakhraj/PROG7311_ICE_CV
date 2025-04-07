@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CV_PROG7311_ST1029651")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffce7c7ec10a81d3935412a14d8b9e0a161b6f41")]
 [assembly: System.Reflection.AssemblyProductAttribute("CV_PROG7311_ST1029651")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CV_PROG7311_ST1029651")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
